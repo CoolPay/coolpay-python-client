@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/CoolPay/coolpay-python-client.svg)](https://travis-ci.org/CoolPay/coolpay-python-client)
 
-`coolpay-python-client` is a official python client for [CoolPay API](http://tech.coolpay.net/api). Coolpay API enables you to accept payments in a secure and reliable manner. This library currently supports CoolPay `v10` api.
+`coolpay-python-client` is a official python client for [CoolPay API](http://www.coolpay.com/docs/). Coolpay API enables you to accept payments in a secure and reliable manner. This library currently supports CoolPay `v10` api.
 
 Installation
 ===============
